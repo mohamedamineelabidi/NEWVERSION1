@@ -1,0 +1,8 @@
+flask
+flask-cors
+pandas
+scikit-learn==1.2.2
+joblib
+openpyxl
+numpy==1.23.5
+scipy==1.9.3
